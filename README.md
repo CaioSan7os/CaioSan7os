@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Jr atualmente estudando o Java na faculdade e JS por conta própria
+    atualmente estudando o Java na faculdade e JS por conta própria
 
 <div align="center">
   <a href="https://github.com/CaioSan7os">
