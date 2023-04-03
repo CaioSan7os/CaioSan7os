@@ -11,8 +11,7 @@
 <div align="center">
   <a href="https://github.com/CaioSan7os">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSan7os&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSan7os&theme=tokyonight&hide_border=false&&layout=compact"/>
-  </a>
+    
 </div>
 
 <div align="center" valign="top"><br>
