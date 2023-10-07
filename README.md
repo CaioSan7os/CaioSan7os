@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    atualmente estudando o Java na faculdade e JS por conta própria
+    Poucos quadrados verdes mas eu juro que to estudando hahaha, JAVA <3
 
 <div align="center">
   <a href="https://github.com/CaioSan7os">
